@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi there, I'm Akash! 👋  
+Welcome to my GitHub profile! I'm passionate about data science and machine learning, focusing on using Python and analytical tools to unlock the power of data. With a growing skill set in data visualization and predictive modeling, I’m driven by curiosity and a love for problem-solving.  
 
-<!--
-**AkashR9702/AkashR9702** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🔍 **About Me**  
+- 💼 Aspiring Data Scientist  
+- 🌱 Currently learning advanced data analytics and visualization  
+- 🎓 Master of Science in Information Technology  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ **Tools and Languages**  
+- **Programming & Analytics:** Python, MySQL, Power BI  
+- **Libraries & Frameworks:** scikit-learn, pandas, NumPy  
+
+---
+
+Feel free to explore my repositories and connect for exciting data-driven projects!
+
