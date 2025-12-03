@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Akash!
+# 👋 Hi there, I'm Aakash!
 
 Welcome to my GitHub profile!  
 I'm an **AI enthusiast** exploring the world of **Generative AI**, **LangChain**, and **LangGraph**.  
